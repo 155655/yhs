@@ -1,0 +1,179 @@
+
+/* 内容2 */
+.content2{overflow-x:hidden;}
+.c-wrap{height:46.98vw;max-width:1920px;background:url("../img/banner02.png") center center no-repeat;display:flex;justify-content:center;align-items:center;background-size:100%;}
+.c-img{width:22.3vw;}
+
+/* 内容36,39,88 */
+.content3{overflow-x:hidden;position:relative;background:url("../img/bg01.png") center center no-repeat;background-size:100%;}
+/* .content3::before{position:absolute;top:0;bottom:0;left:0;right:0;background-image: linear-gradient(to bottom, rgba(36,39,88, 0) 0%, rgba(0, 0, 0, 1) 100%);} */
+.item1,.item2,.item3{display:flex;}
+.item1{justify-content:space-between;padding-top:5.2vw;}
+.item1-left{margin-left:20.99vw;}
+.item1-right{margin-right:20.99vw;}
+.item1-left img,.item1-left span,.item1-right img,.item1-right span{display:block;font-size:1.3vw;}
+.item1-left img,.item1-right img{width:5.625vw;height:5.625vw;}
+.item1-left span,.item1-right span{padding-top:0.729vw;}
+.item2{display:flex;justify-content: space-between;margin-top:1.8vw;}
+.item2-img1{width:20.57vw;height:44.6vw;margin-left:13.54vw;}
+.item2-img2{width:28.2vw;height:20.47vw;margin-top:9.37vw;}
+.item2-img3{width:20.57vw;height:44.6vw;margin-right:13.54vw;}
+.item3{display:flex;justify-content:space-between;margin-top:3.64vw;padding-bottom:5.2vw;}
+.item3 img{display:block;}
+.item3-left,.item3-center,.item3-right{width:20.6vw;}
+.item3-left{margin-left:13.54vw;}
+.item3-right{margin-right:13.54vw;}
+
+.item3-img1,.item3-img2,.item3-img5,.item3-img6{width:20.6vw;height:16.14vw;}
+.item3-img3{width:5.625vw;height:5.625vw;margin:0 auto;}
+.item3-img4{width:20.6vw;height:22.13vw;margin-top:3.75vw;}
+.item3-span1{display:block;text-align:center;margin-top:14px;}
+.item3-img1,.item3-img5{margin-top:3.8vw;}
+.item3-img2,.item3-img6{margin-top:5.05vw;}
+
+/* 内容4 */
+.content4{overflow-x:hidden;}
+.c-wrap2{height:49.63vw;max-width:1920px;background:url("../img/banner03.png") center center no-repeat;display:flex;justify-content:center;align-items:center;box-sizing:border-box;background-size:100%;}
+.table{width:72.917vw;display:flex;flex-wrap:wrap;}
+.td1{width:19vw;height:7.8vw;border:1px solid #11D8FA;display:flex;align-items: center;box-sizing:border-box;border-left:2px solid #11D8FA;}
+.td1 span{color:#11D8FA;font-size:2vw;padding-left:2.6vw;}
+.td2{width:53vw;height:7.8vw;border:1px solid #11D8FA;display:flex;align-items: center;box-sizing:border-box;border-right:2px solid #11D8FA;}
+.bdt2{border-top:2px solid #11D8FA;}
+.bdb2{border-bottom:2px solid #11D8FA;}
+.td2 span{font-size:1.35vw;line-height:2.6vw;padding:0 2.6vw;}
+.mb2{margin-bottom:-2px;margin-top:0;}
+.mt2{margin-top:2px;}
+
+/* 学员案例 */
+
+.x-content1 {padding-top:7.8947vw;}
+.x-item1 {width:85.263vw;height:33.37vw;background:url("../img/xyal/bg02.png") center center no-repeat;display:flex;align-items:center;margin:0 auto;background-size:100%;}
+.x-item1-img1 {width:34vw;height:19.05vw;}
+.mgl1{margin-left:5.78947vw;}
+.mgl2{margin-left:3.94737vw;}
+.mgt3{margin-top:4.167vw;}
+.x-item1-box {height:19.0526vw;}
+.x-item1-title1 {font-size:2.10526vw;height:3.68421vw;position:relative;}
+.x-item1-title1:after {display:block;content:"";position:absolute;left:0;bottom:0;width:2.526vw;height:0.21vw;background-color:#11D8FA;}
+.x-item1-p1 {width:36.04vw;font-size:1.1578vw;font-weight:400;color:#CAC7C7;margin-top:2.105vw;line-height:1.8421vw;word-break:break-all;}
+
+/* 宇航社商学院 */
+.y-content1{height:26vw;background:url("../img/yhssxy/bg02.png") center center no-repeat;display:flex;align-items:center;margin:0 auto;display:flex;align-items: center;background-size:100%;}
+.y-img1{width:17.13vw;height:19.68vw;margin-left:13.5vw;}
+.y-p1{width:53.69vw;font-size:1.458vw;line-height:2.6vw;margin-left:2vw;}
+
+.y-content2{min-height:8.646vw;}
+.y-title1{color:#FAFAFA;font-size:2.34vw;text-align:center;padding:3.64vw 0 2vw;font-style:italic;letter-spacing:3px;}
+.y-box1{height:51.9vw;background:url("../img/yhssxy/bg03.png") center center no-repeat;background-size:100%;display:flex;}
+.y-item1{width:17.4479vw;}
+.pdt173{padding-top:9vw;}
+.pdt114{padding-top:5.937vw;}
+.y-item-div1{width:16.4vw;height:17.7vw;position:relative}
+.y-item-img1{width:16.4vw;display:block;position:absolute;top:0;left:0;}
+.y-item-div1 p{position:relative;text-align:center;font-weight: bold;
+color: #FAFAFA;font-size:2vw;}
+.y-item-p1{text-align:center;color:#11D8FA;font-size:1.56vw;}
+.y-item-p2{width:18vw;color:#FAFAFA;font-size:1.25vw;line-height:2.6vw;word-break: break-all;}
+.mt302{margin-top:16vw;}
+.mt76{margin-top:4vw;}
+.ml20{margin-left:1.04vw;}
+.ml260{margin-left:13.54vw;}
+
+.y-content3{height:47vw;background:url("../img/yhssxy/bg04.png") center center no-repeat;background-size:100%;display:flex;flex-wrap:wrap;justify-content:center;align-content:center;}
+.y-box2{width:35.83vw;height:17.7vw;background:url("../img/yhssxy/bg06.png") center center no-repeat;background-size:100%;display:flex;}
+.mt50{margin-top:2.6vw;}
+.y-item2{padding-left:16.77vw;}
+.y-item2-p1{color:#2D2C2C;font-weight:bold;font-size:1.354vw;padding-top:1.354vw;}
+.y-item2-p2{color:#414141;font-size:1.1458vw;padding-top:0.52vw;}
+.y-item2-p3{width:15.834vw;color:#5D5E5E;font-size:0.9375vw;word-break: break-all;}
+.line-height28{line-height:1.458vw;}
+.pdt11{padding-top:0.5729vw;}
+
+.y-content4{height:102.6vw;background:url("../img/yhssxy/bg05.png") center center no-repeat;background-size:100%;display:flex;flex-wrap:wrap;justify-content:center;}
+.y-box4{width:72.9vw;}
+.y-item3-top{height:13vw;display:flex;align-items:center;}
+.ml20{margin-left:1vw;}
+.ml32{margin-left:1.875vw;}
+.ml50{margin-left:2.6vw;}
+
+.y-top1{width:4.53vw;height:3.658vw;}
+.y-top2{font-size: 2vw;font-weight:bold;color: #737373;position:relative;height:3.33vw;}
+.y-top2:after{position:absolute;display:block;content:'';bottom:0;height:0.2vw;left:0;right:0;background-color:#11D8FA;}
+.y-top3{}
+.top3-p1{font-size: 1.56vw;height:1.57vw;color: #737373;background:url("../img/yhssxy/icon06.png") left top no-repeat;background-size:1.56vw 1.56vw;line-height:1.57vw;}
+.mb20{margin-bottom:1.04vw;}
+.top3-p1 span{padding-left:2.7vw;}
+
+.y-item3-bottom{display:flex;}
+.y-item3-bg{position:relative;width:19.27vw;height:17.968vw;}
+.y-item3-p1,.y-item3-p2{position:relative;}
+.y-item3-p1{font-size:2.08vw;text-align:center;padding-top:3.64vw;}
+.y-item3-p2{width:14.06vw;font-size:1.56vw;line-height:2.08vw;padding-top:1.35vw;padding-left:1.6vw;}
+.y-item3-bg img{display:block;position:absolute;height:17.968vw;top:-0.78vw;left:-1.1458vw;}
+.ml34{margin-left:1.77vw;}
+
+/* TK宇航社 */
+.t-content1{height:107.5vw;background:url("../img/tkyhs/bg01.png") left top no-repeat;background-size:100%;}
+.t-content1-item1{padding:4.635vw 22.39vw 0;font-size:1.458vw;font-weight: bold;line-height:2.6vw;}
+.mt10{margin-top:0.52vw;}
+.t-content1-item2{display:flex;padding:0 13.5vw;justify-content: space-between;margin-top:3.59vw;}
+.t-content1-item2 img{width:17.5vw;height:19.8vw;}
+
+.t-content1-item3{display:flex;padding:0 13.5vw;justify-content: space-between;}
+.t-item3-box1{width:17.5vw;}
+.t-item3-title1{text-align:center;font-weight:bold;color: #11D8FA;font-size:1.56vw;}
+.t-item3-p1{font-size:1.1458vw;color:#838383;padding-left:2.55vw;background:url("../img/tkyhs/icon03.png") 1.35vw center no-repeat;background-size:0.625vw 0.625vw;}
+.mt15{margin-top:0.78vw;}
+.mt20{margin-top:1.04vw;}
+.mt25{margin-top:1.3vw;}
+.mt30{margin-top:1.56vw;}
+.mt40{margin-top:2.08vw;}
+.t-content1-item4{display:flex;margin-top:4.16rem;justify-content: center;}
+.t-content1-item4 img{width:71.875vw;height:40.625vw;}
+.t-content1-item4 video{width:71.875vw;height:40.625vw;}
+
+.t-content2{height:84.89vw;background:url("../img/tkyhs/bg07.png") left top no-repeat;background-size:100%;padding-top:2.28vw;box-sizing:border-box;position:relative;}
+.t-content2-box{padding:0 13.33vw;display:flex;justify-content: space-between;}
+.t-content2-item1{width:31.25vw;}
+.t-content2-item1 img{display:block;width:31.25vw;height:21.875vw;}
+.t-content2-title1{font-weight: bold;color: #11D8FA;font-size:2.08vw;}
+.t-content2-p1{font-size: 1.1458vw;padding-left:1.458vw;background:url("../img/tkyhs/icon01.png") left center no-repeat;background-size:0.729vw 0.8854vw;}
+.mt144{margin-top:7.5vw;}
+.t-content2-center{position:absolute;display:block;width:43.33vw;height:40.677vw;left:50%;top:50%;transform:translate(-50%,-50%);}
+
+
+.t-content3{background-color:#0A1029;height:60.2vw;display:flex;justify-content: center;align-items: center;}
+.t-content3-box{width:72.917vw;}
+.t-content3-item1{height:19.27vw;background:url("../img/tkyhs/bg05.png") left top no-repeat;background-size:100%;display:flex;align-items: center;}
+.t-content3-item1 p{font-size:1.458vw;font-weight: bold;color: #FAFAFA;line-height: 2.6vw;padding:0 8.854vw;}
+
+.t-content3-item2{display:flex;justify-content: space-between;}
+.t-item2-li1{width:17.5vw;}
+.t-li1-content{background-color:#fff;padding-bottom:1.3vw;}
+.item2-li1-img{display:block;width:17.5vw;height:20vw;}
+.item2-li1-p1{font-size:1.56vw;font-weight: bold;color: #11D8FA;text-align:center;padding:1vw 0;}
+.item2-li1-p2{color:#838383;font-size:1.1458vw;padding-left:3.125vw;background:url("../img/tkyhs/icon02.png") 1.822vw center no-repeat;background-size:0.8333vw 0.8333vw;}
+.mt8{margin-top:0.4167vw;}
+
+.t-content4{height:38.59vw;background:url("../img/tkyhs/bg03.png") left top no-repeat;background-size:100%;display:flex;justify-content: center;align-items: center;}
+.t-content4-box{display:flex;}
+.t-content4-left{width:22.34vw;height:28.177vw;}
+.t-content4-right{width:50.57vw;height:28.177vw;background-color:#fff;}
+.t-content4-li{display:flex;padding-top:2.1vw;height:9.3vw;box-sizing:border-box;}
+.t-content4-li:not(:last-child){background:url("../img/tkyhs/line05.png") 2.9vw bottom no-repeat;background-size:40.677vw 0.104vw;}
+.t-content4-title1{font-size:1.875vw;color:#11D8FA;letter-spacing:2px;font-weight:600;padding-left:2.9vw;}
+.t-content4-p{font-size:0.83vw;color: #595C61;line-height: 1.35vw;padding-left:1.56vw;font-weight:normal;}
+
+.t-content5{padding:4.166vw 13.5415vw 0;}
+.t-content5-item1,.t-content5-item2{width:72.917vw;display:flex;}
+.t-content5-item1{justify-content:space-between;}
+.t-content5-img1{width:35.677vw;height:23.9vw;}
+.t-content5-img2{width:17.08vw;height:23.9vw;}
+.ml29{margin-left:1.51vw;}
+.mt80{margin-top:4.166vw;}
+
+.t-content6{height:35.833vw;background:url("../img/tkyhs/bg06.png") left top no-repeat;background-size:100%;display:flex;justify-content: center;align-items:center;}
+.t-content6-item{width:72.916vw;display:flex;justify-content: space-between;align-items: center;}
+.t-content6-img1{width:36.4vw;height:28.9vw;}
+.t-content6-box1{width:30.73vw;}
+.t-content6-box1 p{font-size: 1.458vw;font-weight: bold;color: #FFFFFF;line-height: 2.6vw;}
